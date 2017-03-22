@@ -1,0 +1,16 @@
+title: Kevin Chandler
+email: im.kevin@me.com
+description:
+baseurl: ""
+url: "https://kevinchandler.github.io"
+twitter_username: plaintshirts
+github_username:  kevinchandler
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - excludes/
